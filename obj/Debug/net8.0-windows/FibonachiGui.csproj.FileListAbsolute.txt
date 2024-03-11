@@ -1,0 +1,16 @@
+C:\Users\nick_\source\repos\ProFor\FibonachiGui\bin\Debug\net8.0-windows\FibonachiGui.exe
+C:\Users\nick_\source\repos\ProFor\FibonachiGui\bin\Debug\net8.0-windows\FibonachiGui.deps.json
+C:\Users\nick_\source\repos\ProFor\FibonachiGui\bin\Debug\net8.0-windows\FibonachiGui.runtimeconfig.json
+C:\Users\nick_\source\repos\ProFor\FibonachiGui\bin\Debug\net8.0-windows\FibonachiGui.dll
+C:\Users\nick_\source\repos\ProFor\FibonachiGui\bin\Debug\net8.0-windows\FibonachiGui.pdb
+C:\Users\nick_\source\repos\ProFor\FibonachiGui\obj\Debug\net8.0-windows\FibonachiGui.Form1.resources
+C:\Users\nick_\source\repos\ProFor\FibonachiGui\obj\Debug\net8.0-windows\FibonachiGui.csproj.GenerateResource.cache
+C:\Users\nick_\source\repos\ProFor\FibonachiGui\obj\Debug\net8.0-windows\FibonachiGui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nick_\source\repos\ProFor\FibonachiGui\obj\Debug\net8.0-windows\FibonachiGui.AssemblyInfoInputs.cache
+C:\Users\nick_\source\repos\ProFor\FibonachiGui\obj\Debug\net8.0-windows\FibonachiGui.AssemblyInfo.cs
+C:\Users\nick_\source\repos\ProFor\FibonachiGui\obj\Debug\net8.0-windows\FibonachiGui.csproj.CoreCompileInputs.cache
+C:\Users\nick_\source\repos\ProFor\FibonachiGui\obj\Debug\net8.0-windows\FibonachiGui.dll
+C:\Users\nick_\source\repos\ProFor\FibonachiGui\obj\Debug\net8.0-windows\refint\FibonachiGui.dll
+C:\Users\nick_\source\repos\ProFor\FibonachiGui\obj\Debug\net8.0-windows\FibonachiGui.pdb
+C:\Users\nick_\source\repos\ProFor\FibonachiGui\obj\Debug\net8.0-windows\FibonachiGui.genruntimeconfig.cache
+C:\Users\nick_\source\repos\ProFor\FibonachiGui\obj\Debug\net8.0-windows\ref\FibonachiGui.dll
